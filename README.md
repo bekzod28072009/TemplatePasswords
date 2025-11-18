@@ -108,9 +108,3 @@ If you want to add Token refresh, Email confirmation, or OTP login — feel free
 
 📜 License
 This project is open-source and free to use for any personal or commercial purpose.
-
-⭐ If you like this template, don't forget to give it a star!
-yaml
----
-
-Let me know if you want **badges**, **screenshots**, **colored sections**, or **ASCII logo** added.
